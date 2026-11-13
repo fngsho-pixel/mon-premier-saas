@@ -1,7 +1,9 @@
 
+import './globals.css'
+
 export const metadata = {
-  title: "Mon Premier SaaS",
-  description: "Bienvenue sur mon application SaaS",
+  title: "Panier Perdu",
+  description: "Récupérez vos paniers abandonnés automatiquement.",
 };
 
 export default function RootLayout({ children }) {
